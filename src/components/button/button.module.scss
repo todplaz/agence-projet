@@ -1,0 +1,17 @@
+button {
+  height: 30px;
+  padding: 0.625rem 1rem;
+  background-color: var(--theme-color);
+  color: #FFF;
+  cursor: pointer;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 0px solid #f6fff8;
+  border-radius: 6px;
+  margin: 10px;
+  width: 65px;
+}
+
+
+button:focus {
+  outline: none;
+}

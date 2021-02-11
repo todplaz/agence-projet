@@ -1,0 +1,16 @@
+.nav-bar {
+  background-color: #006d77;
+  border: 0px solid #7ebdc2;
+  border-radius: 4px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+.lien {
+  color: white;
+  text-decoration: none;
+  padding: 3px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
